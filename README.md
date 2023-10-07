@@ -1,7 +1,13 @@
-# File-type-identification-us
+# File-type-identification-using-the-magic-number
 <img width="960" alt="Screenshot 2023-10-07 165334" src="https://github.com/RAHUL-Nj/File-type-identification-using-the-magic-number/assets/98076310/67c964bc-cca7-434b-8dc6-809d8f9e0443">
-ing-the-magic-number
+
+
+
+
 This project aims to develop a file-type identification tool using the concept of magic numbers.
+
+
+
 
 
 
